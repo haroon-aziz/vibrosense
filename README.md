@@ -1,6 +1,6 @@
 # VibroSense
 
-Contactless material classification from a single video — not by appearance, but by how a surface **vibrates**. Tap, brush, or lightly excite an object on camera; VibroSense amplifies sub-pixel motion (Eulerian video magnification), extracts a per-region frequency signature, and clusters regions by vibration behavior. Wood, metal, plastic, and rubber all ring differently — this reads that difference straight out of RGB video.
+Contactless material classification from a single video — not by appearance, but by how a surface vibrates. Tap, brush, or lightly excite an object on camera; VibroSense amplifies sub-pixel motion (Eulerian video magnification), extracts a per-region frequency signature, and clusters regions by vibration behavior. Wood, metal, plastic, and rubber all ring differently — this reads that difference straight out of RGB video.
 
 ## Pipeline
 
